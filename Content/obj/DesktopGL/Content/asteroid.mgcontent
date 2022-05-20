@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>x:/My Drive/Programming/C#/VSCodeTest/TestGame/Content/asteroid.png</SourceFile>
+  <SourceFile>X:/My Drive/Programming/C#/VSCodeTest/TestGame/Content/asteroid.png</SourceFile>
   <SourceTime>2020-10-16T12:17:10.459-04:00</SourceTime>
-  <DestFile>x:/My Drive/Programming/C#/VSCodeTest/TestGame/Content/bin/DesktopGL/Content/asteroid.xnb</DestFile>
-  <DestTime>2022-05-20T12:00:04.271-04:00</DestTime>
+  <DestFile>X:/My Drive/Programming/C#/VSCodeTest/TestGame/Content/bin/DesktopGL/Content/asteroid.xnb</DestFile>
+  <DestTime>2022-05-20T12:03:08.437-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T16:17:54-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

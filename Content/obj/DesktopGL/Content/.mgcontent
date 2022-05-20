@@ -4,7 +4,7 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>x:/My Drive/Programming/C#/VSCodeTest/TestGame/Content/asteroid.png</File>
+    <File>X:/My Drive/Programming/C#/VSCodeTest/TestGame/Content/asteroid.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

@@ -1,2 +1,2 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"x:/My Drive/Programming/C#/VSCodeTest/TestGame/Content/asteroid.png","x:/My Drive/Programming/C#/VSCodeTest/TestGame/Content/bin/DesktopGL/Content/asteroid.xnb","TextureProcessor","Texture2DContent",175287,409285,0.2084032
+"X:/My Drive/Programming/C#/VSCodeTest/TestGame/Content/asteroid.png","X:/My Drive/Programming/C#/VSCodeTest/TestGame/Content/bin/DesktopGL/Content/asteroid.xnb","TextureProcessor","Texture2DContent",175287,409285,0.1584565

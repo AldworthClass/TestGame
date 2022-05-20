@@ -50,6 +50,7 @@ namespace TestGame
             // TODO: Add your drawing code here
             _spriteBatch.Begin();
             _spriteBatch.Draw(asteriodTexture, new Vector2(10, 10), Color.White);
+            _spriteBatch.Draw(asteriodTexture, new Rectangle(300, 400, 50, 50), Color.White);
             _spriteBatch.End();
 
             base.Draw(gameTime);
